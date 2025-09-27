@@ -1,16 +1,8 @@
-` adalah komentar. Ini tidak akan terlihat di profilmu. Aku memakainya untuk memberimu petunjuk.
-- Untuk mencari ikon keren buat skill-set, coba cari di:
-  - Shields.io (https://shields.io/)
-  - Devicon (https://devicon.dev/)
-- Kamu bisa buat banner keren dan gratis di Canva (https://www.canva.com/). Ukuran yang pas sekitar 1280x400 piksel.
-- Jangan malu untuk menunjukkan siapa dirimu. Sedikit sentuhan personal itu bagus!
--->
-
 <p align="center">
-  <img src="https://link-ke-gambar-banner-kamu.com/banner.png" alt="Banner Profil Saya">
+  <img src="Asset/image.png" alt="Banner Profil Saya">
 </p>
 
-<h1 align="center">👋 Halo, saya [Nama Lengkap Kamu]!</h1>
+<h1 align="center">👋 Halo, saya Nombertus Nando</h1>
 <h3 align="center">Seorang Mahasiswa [Jurusan Kamu] yang Penuh Semangat dan Antusias dalam Dunia [Bidang Minatmu, cth: Web Development, Data Science, Mobile Apps]</h3>
 
 <p align="center">
